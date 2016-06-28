@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ten_more"
+        android:orderInCategory="100"
+        android:title="@string/ten_more_calc"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/more_calc"
+        android:orderInCategory="100"
+        android:title="@string/more_calc"
+        app:showAsAction="never"/>
+</menu>

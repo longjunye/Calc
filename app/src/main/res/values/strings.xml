@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">潘潘的口算本</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="level_easy">容易</string>
+    <string name="level_middle">中级</string>
+    <string name="level_hard">难</string>
+    <string name="ten_more_calc">再来10道</string>
+    <string name="more_calc">再来N道</string>
+    <string name="answer_not_right">做错啦~</string>
+</resources>
